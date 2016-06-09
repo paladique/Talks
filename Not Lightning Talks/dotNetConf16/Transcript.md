@@ -25,19 +25,19 @@ Some things to be mindful of when making your first project in Octokit is your r
 A few features that might be of interest to is:
 
 - Pagination
-  - By default Octokit returns the whole data set of a request, but with a ApiOptions instance you can control what is returned.[11](http://octokitnet.readthedocs.io/en/latest/extensibility/#pagination)     
+  - By default Octokit returns the whole data set of a request, but with a ApiOptions instance you can control what is returned. [[11](http://octokitnet.readthedocs.io/en/latest/extensibility/#pagination)]     
 - Symbol debugging
   -Step into Octokit via your project
-  -Options > General > Enable source server support [](http://octokitnet.readthedocs.io/en/latest/debugging-source/)
+  -Options > General > Enable source server support [[12](http://octokitnet.readthedocs.io/en/latest/debugging-source/)]
 - Enterprise support
   - Custom tool solutions for on-premise repos
 - Reactive extension support 
   - IObservable library for use with Reactive Extensions
-      - Octonotes, written by maintainer
-      - GitHub for VS Extension
+      - Octonotes, written by maintainer [[13](https://github.com/shiftkey/octonotes/)]
+      - GitHub for VS Extension [[14](https://github.com/github/VisualStudio)]
 
 
-Octokit is open source and you can check out what's going on their repo and make some contributions. Consider taking on some of the issues marked upforgrabs and making a pull request off that issue with your ennhancements or fixes. Don't forget to make some tests! How it normally works is that a maintainer will review your code and make comments on it and when if your build is passing and it looks good they'll merge it! Check out issues and  for discussions on features, for example there's a really involved discussion about core support going on at the moment.[[12](https://github.com/octokit/octokit.net/issues/1115)]
+Octokit is open source and you can check out what's going on their repo and make some contributions. Consider taking on some of the issues marked upforgrabs and making a pull request off that issue with your ennhancements or fixes. Don't forget to make some tests! How it normally works is that a maintainer will review your code and make comments on it and when if your build is passing and it looks good they'll merge it! Check out issues and  for discussions on features, for example there's a really involved discussion about core support going on at the moment.[[15](https://github.com/octokit/octokit.net/issues/1115)]
 
 
 ##Footnotes and additional references
