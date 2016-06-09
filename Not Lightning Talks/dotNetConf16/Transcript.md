@@ -41,7 +41,7 @@ Octokit is open source and you can check out what's going on their repo and make
 
 
 ##Footnotes and additional references
-** Repo examples available in C#, VB.NET, and F#
+** [Examples](https://github.com/paladique/Octokit.NETDemos) available in C#, VB.NET, and F#
 
 ** Contect me me at [@paladique](https://twitter.com/paladique) for questions or check out the [Octokit.NET](https://github.com/octokit/octokit.net) repo where one of the maintainers can answer qs or search the Issues to see if it's been answered.
 
