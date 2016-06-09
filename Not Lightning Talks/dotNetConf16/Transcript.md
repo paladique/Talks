@@ -45,7 +45,7 @@ Octokit is open source and you can check out what's going on their repo and make
 
 ** Contect me me at [@paladique](https://twitter.com/paladique) for questions or check out the [Octokit.NET](https://github.com/octokit/octokit.net) repo where one of the maintainers can answer qs or search the Issues to see if it's been answered.
 
-** Gif from Before you Build is image of Scar from [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King), scene is musical number calles ("Be Prepared")[https://en.wikipedia.org/wiki/Be_Prepared_(song)] when he plans to take over the kingdom of Pride Rock.
+** Gif from Before you Build is image of Scar from [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King), scene is musical number calles ["Be Prepared"](https://en.wikipedia.org/wiki/Be_Prepared_(song)) when he plans to take over the kingdom of Pride Rock.
 
 [Slide Design Credits](http://www.slidescarnival.com/jourdain-free-presentation-template/403)
 
