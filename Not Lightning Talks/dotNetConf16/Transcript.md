@@ -9,9 +9,6 @@ So let's move on to the topic of of how Octokit work with GitHub's API. So versi
 So just a little aside to the deserialization let's look at how octokit actually does it, Octokit uses SimpleJSON   (SimpleJsonSerializer.cs) [[4](https://github.com/octokit/octokit.net/blob/f354d1bf00ff7606b46489e3a915e1428414bc47/Octokit/Http/SimpleJsonSerializer.cs)] library to set this up for you. One reason for this is it makes it easier for you, the developer, to not have to worry about things like attributes that are written in ruby conventions, which you're probably not used to as a .NET dev.
 
 One great way to start using Octokit is to look at the integration tests. [[5](https://github.com/octokit/octokit.net/tree/master/Octokit.Tests.Integration/Clients)] Let's do that now and see what's going on in there.
-This is test is doing x
-this test is doing y
-
 
 So how do you get started?
 
