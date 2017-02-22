@@ -60,3 +60,5 @@ destroy itself if the hero touches it.
 
 Just one coin is boring, so let's add more. Just like the ground we'll want to spawn these coins. We'll need to make a coin prefab, and then give the coin some spawn locations relative to the platforms. We want to avoid spawning coins in a spot where the player can't reach it. To do this, we'll make some transform game objects to be children of the ground in our scene hierarchy. Next, a script to
 spawn our coins randomly by taking those 4 transforms, putting them in an array, and randomly choosing an index which will determine where the next coin will spawn. 
+
+[Demo](https://github.com/paladique/Platformer101)
